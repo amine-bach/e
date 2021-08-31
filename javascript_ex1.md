@@ -46,7 +46,7 @@ let D = [1, 2, 3, 1, 4, 1, 6]
 - Rajouter 'bash' aux _langages_ de __o2__
 - Afficher les valeurs des _langages_ de __o2__ avec une boucle __for__
 - Afficher les valeurs des _langages_ de __o2__ avec le mot clef __map__
-- Afficher le nom et la valeur des propriétés de l'objet __o2__ avec le mot clef *for*
+- Afficher le nom et la valeur de toutes les propriétés de l'objet __o2__ avec le mot clef *for*
 <br><br>
 
 ##### Exercice : 
