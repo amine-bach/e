@@ -52,6 +52,6 @@ let D = [1, 2, 3, 1, 4, 1, 6]
 ##### Exercice : 
 Créer un tableau E de taille 100 composé avec des entiers entre 0 et 9 inclus pris aléatoirement.  
 Ecrire le code qui enlève toutes les valeurs égales à 1 dans ce tableau.  
-Créer un nouveau tableau F avec les valeurs de E comprises entres les indices 10 à 20 (non-inclus).  
+Créer un nouveau tableau F avec les valeurs de E comprises entres les indices 10(inclus) à 20(non-inclus).  
 Inverser le tableau F.  
 Ce programme est-il fiable à 100% ?
