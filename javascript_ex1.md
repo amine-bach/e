@@ -8,10 +8,10 @@ Des objets plus fournis :
 ```js
 let o2 = {prenom : "toto", nom : "dupont", langages : ['js', "python"]}
 ```
-<br>
+<br><br>
 
-#### Séance 1 : 
-- Afficher __o1__, __o2__ avec un console.log()
+#### 1) : 
+- Afficher __o1__, __o2__ avec un `console.log()`
 - Modifier le prénom de __o2__ en "tata"
 - Ajouter la propriété "prenom" à __o1__ de 2 manières disctinctes.
 - Supprimer la propriété "prenom" de __o1__
@@ -21,7 +21,7 @@ let o3 = {"prenom" : "titi", "nom" : "dupont", "langages" : ['js', "python"]}
 ```
 <br><br>
   
-#### Séance 2 : 
+#### 2) : 
 - Créer un tableau vide A
 - Créer un tableau B avec les valeurs de 1 à 5 incluses
 - Créer un tableau C, le remplir avec les valeurs de 1 à 5 incluses
@@ -29,7 +29,7 @@ let o3 = {"prenom" : "titi", "nom" : "dupont", "langages" : ['js', "python"]}
 - Rajouter une nouvelle valeur à B
 <br><br>
 
-#### Séance 3 : 
+#### 3) : 
 ```js
 let D = [1, 2, 3, 1, 4, 1, 6]
 ```  
@@ -41,7 +41,7 @@ let D = [1, 2, 3, 1, 4, 1, 6]
 - Enlever la première valeur de 1 dans le tableau
 <br><br>
 
-#### Séance 4 : 
+#### 4) : 
 - "js" appartient-il aux _langages_ de __o2__ ?
 - Rajouter 'bash' aux _langages_ de __o2__
 - Afficher les valeurs des _langages_ de __o2__ avec une boucle __for__
