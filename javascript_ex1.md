@@ -13,7 +13,7 @@ let o2 = {prenom : "toto", nom : "dupont", langages : ['js', "python"]}
 #### 1)
 - Afficher __o1__, __o2__ avec un `console.log()`
 - Modifier le prénom de __o2__ en "tata"
-- Ajouter la propriété "prenom" à __o1__ de 2 manières disctinctes.
+- Ajouter la propriété "prenom" à __o1__ de 2 manières distinctes.
 - Supprimer la propriété "prenom" de __o1__
 - question : cette syntaxe est-elle correcte ?
 ```js
