@@ -15,11 +15,10 @@ let o2 = {prenom : "toto", nom : "dupont", langages : ['js', "python"]}
 - Modifier le prénom de __o2__ en "tata"
 - Ajouter la propriété "prenom" à __o1__ de 2 manières disctinctes.
 - Supprimer la propriété "prenom" de __o1__
-- question : cette syntaxe est-elle correcte :
+- question : cette syntaxe est-elle correcte ?
 ```js
 let o3 = {"prenom" : "titi", "nom" : "dupont", "langages" : ['js', "python"]}
 ```
-- Afficher les propriétés de l'objet __o2__ avec le mot clef *for*
 <br><br>
   
 #### Séance 2 : 
@@ -44,15 +43,15 @@ let D = [1, 2, 3, 1, 4, 1, 6]
 
 #### Séance 4 : 
 - "js" appartient-il aux _langages_ de __o2__ ?
-- Rajouter 'bash' aux_ langages_ de __o2__
+- Rajouter 'bash' aux _langages_ de __o2__
 - Afficher les valeurs des _langages_ de __o2__ avec une boucle __for__
 - Afficher les valeurs des _langages_ de __o2__ avec le mot clef __map__
-- Afficher __o2__ avec _stringify_
-<br><br<>
+- Afficher le nom et la valeur des propriétés de l'objet __o2__ avec le mot clef *for*
+<br><br>
 
 ##### Exercice : 
-Créer un tableau E de taille 100 composé avec des entiers entre 0 et 9 pris aléatoirement.  
-Ecrire le code  qui enlève toutes les valeurs égales à 1 dans ce tableau.  
+Créer un tableau E de taille 100 composé avec des entiers entre 0 et 9 inclus pris aléatoirement.  
+Ecrire le code qui enlève toutes les valeurs égales à 1 dans ce tableau.  
 Créer un nouveau tableau F avec les valeurs de E comprises entres les indices 10 à 20 (non-inclus) . 
 Inverser le tableau F.  
 Ce programme est-il fiable à 100% ?
